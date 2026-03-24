@@ -166,7 +166,8 @@ Comprehensive reference covering every major data structure and algorithm — tr
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jp--0704-181717?style=for-the-badge&logo=github)](https://github.com/jp-0704)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayavikram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavikram/)
+[![Gmail](https://img.shields.io/badge/Gmail-jayavikram2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayavikram2004@gmail.com)
 
 </div>
 
