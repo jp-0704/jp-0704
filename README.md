@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jayavikram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Quant%20Developer%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jayavikram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Quant%20Trader%20%7C%20Systems%20Developer%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 ```cpp
 class Jayavikram {
 public:
-    std::string role     = "Software Engineer";
+    std::string role     = "Aspiring Quant Trader";
     std::string focus[]  = { "Algo Trading", "Systems Programming", "Full-Stack" };
     std::string stack[]  = { "C++17", "Python", "Django", "React", "Kotlin" };
     std::string markets  = "NSE / BSE — Indian Equities & Futures";
