@@ -96,6 +96,22 @@ Comprehensive reference covering every major data structure and algorithm — tr
 <tr>
 <td colspan="2">
 
+### 📈 IMC Prosperity 2026 — Algorithmic Trading Competition
+**Team Execution Executives · +1,346-place Algorithmic Climb · 459,297 XIRECs**
+
+Live algorithmic-trading competition with weekly rounds against an order-book simulator. **Round 1**: 9-state Discrete-Time Markov Chain market-maker for ACO + linear-trend bot for IPR (+181,874 XIRECs, **#1 Manual** in a 1,790-team tie). **Round 2**: v6 separated ACO/IPR market-maker — EMA fair-value, tight inventory corridor (SOFT 20 / HARD 50), 4-step execution pipeline. Final Phase 1: **#728 Algorithmic** (↑ from #2,074), **#201 USA**, Sharpe **99.8**, Profit Factor **43.3**. Includes full research suite — DTMC/QRA calibration, OU Monte Carlo simulator, quant-metric framework (Sharpe / Sortino / Calmar / Skew) used to filter live submissions, oracle ceiling analysis.
+
+`Python` `Market Making` `Markov Chains` `OU Process` `Backtesting` `Monte Carlo` `Quant Research`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jp-0704/imc-prosperity-2026)
+[![Phase 1](https://img.shields.io/badge/Phase%201-Complete-2EA043?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jp-0704/imc-prosperity-2026)
+[![Algo Rank](https://img.shields.io/badge/Algo%20Rank-%23728%20%E2%86%91%201%2C346-A78BFA?style=for-the-badge&logo=tradingview&logoColor=white)](https://github.com/jp-0704/imc-prosperity-2026)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ### 🔬 Scientific Image Forgery Detection
 **Dual-Task Deep Learning · Classify + Localise Copy-Move Regions**
 
