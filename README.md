@@ -93,6 +93,22 @@ Comprehensive reference covering every major data structure and algorithm — tr
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 🔬 Scientific Image Forgery Detection
+**Dual-Task Deep Learning · Classify + Localise Copy-Move Regions**
+
+Four neural architectures benchmarked on the RECOD.ai Kaggle competition (EfficientNet-B4 · ConvNeXt-Tiny · Swin-V2-Tiny · Swin-V2-Base) with a unified CBAM-UNet decoder + deep supervision. Best model (Swin-V2-Tiny, 28 M params) hits **AUC 0.9463** and **Dice 0.5755** on the 713-sample held-out split — a +12 % AUC lift over the EfficientNet baseline. Comes with a **local Streamlit web app** that runs FP16 + 4-fold TTA inference on any consumer GPU and a fully self-contained training pipeline tuned for Kaggle's 2× T4 environment.
+
+`PyTorch` `timm` `Streamlit` `CBAM-UNet` `Swin-V2` `ConvNeXt` `Multi-task Learning`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jp-0704/scientific-image-forgery-detection)
+[![Project Page](https://img.shields.io/badge/Project%20Page-A78BFA?style=for-the-badge&logo=githubpages&logoColor=white)](https://jp-0704.github.io/scientific-image-forgery-detection/)
+[![Models](https://img.shields.io/badge/Pretrained%20Weights-2496ED?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/jp-0704/scientific-image-forgery-detection/releases/tag/v0.1.0)
+
+</td>
+</tr>
 </table>
 
 ---
